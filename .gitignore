@@ -1,0 +1,14 @@
+# Maven build output
+/target/
+
+# NetBeans specific folders
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+
+# Local configuration files
+.netbeans.nv.settings
+*.log
+*.war
